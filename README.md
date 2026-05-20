@@ -20,5 +20,8 @@ How to run the application:
 
 ## File Description
 1. Lib - Holds the backend, features, and pages.
-2. Android, IOS, and Web are files inputted from flutterflow, they have nothing important in them really.
-3. Assets - Holds any inputted images and fonts. 
+   - Backend: Any api_requests and schema.
+   - Closet: full_closet, bottoms, tops, shoes
+   - Features: App feature pages, addclothing, outfit_randomizer, and saved_outfits
+3. Android, IOS, and Web are files inputted from flutterflow, they have nothing important in them really.
+4. Assets - Holds any inputted images and fonts. 
