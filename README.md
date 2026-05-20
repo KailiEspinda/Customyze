@@ -19,5 +19,6 @@ How to run the application:
   - The main platform the application is created on. With it, I can create a public domain or website that can run the application through the web, or deploy it to the app store
 
 ## File Description
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+1. Lib - Holds the backend, features, and pages.
+2. Android, IOS, and Web are files inputted from flutterflow, they have nothing important in them really.
+3. Assets - Holds any inputted images and fonts. 
